@@ -54,7 +54,10 @@ class Form extends Component {
                         />
                     </div>
                     <div className="form-group">
-                        <button type="submit" className="btn btn-outline-primary btn-sm">
+                        <button
+                            type="submit"
+                            className="btn btn-outline-primary btn-sm my-2"
+                        >
                             Add
                         </button>
                     </div>
