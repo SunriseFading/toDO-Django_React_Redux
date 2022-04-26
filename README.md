@@ -1,2 +1,2 @@
 # toDO using Django, React, Redux
-![image](https://user-images.githubusercontent.com/91896985/165396723-e87cc117-105e-4b72-a680-5ac83f8766b1.png)
+![image](https://user-images.githubusercontent.com/91896985/165396875-3630692d-7962-44ea-b14f-cd6ffffd9f5e.png)
